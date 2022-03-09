@@ -43,7 +43,7 @@ Optimal values of Ridge and Lasso are 0.6 and 0.0012
 - Statsmodels
 - matplotlib
 
-
+## Due to more number of variables in the dataset , the visualization graphs might take a while to load on github,downloading the jupyter code file will eradicate the problem.
 
 ## Contact
 Created by [@Rajeshdraksharapu] - feel free to contact me!
