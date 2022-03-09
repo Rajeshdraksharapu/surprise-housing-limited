@@ -33,7 +33,7 @@ Neighborhood_Crawfor- Depending on the nearby companies,where crawfor is a big c
 OverallCond-Depending on the overall condition of the house. etc.
 ,Neighborhood_NridgHt,Condition1_Norm,YearRemodAdd,
 MSZoning_RL
-
+Optimal values of Ridge and Lasso are 0.6 and 0.0012
 
 ## Technologies Used
 - NumPy version: 1.20.3 
